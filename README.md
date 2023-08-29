@@ -20,3 +20,21 @@
 ## APK file
 - folder doc/apk
 
+# Screenshot
+### Todo App
+<p align="left">
+<img width="200" src="https://github.com/holizDV/todo_sample/blob/main/doc/img/s_main.png">
+<img width="200" src="https://github.com/holizDV/todo_sample/blob/main/doc/img/s_home_todo.png">
+<img width="200" src="https://github.com/holizDV/todo_sample/blob/main/doc/img/s_new.png">
+<img width="200" src="https://github.com/holizDV/todo_sample/blob/main/doc/img/s_new1.png">
+<img width="200" src="https://github.com/holizDV/todo_sample/blob/main/doc/img/s_update.png">
+</p>
+
+### LogicT
+<p align="left">
+<img width="200" src="https://github.com/holizDV/todo_sample/blob/main/doc/img/s_home_logic.png">
+<img width="200" src="https://github.com/holizDV/todo_sample/blob/main/doc/img/s_logic1.png">
+<img width="200" src="https://github.com/holizDV/todo_sample/blob/main/doc/img/s_logic3.png">
+</p>
+
+
